@@ -15,3 +15,5 @@ Creates this image:
 As you can the 1st,3rd,5th... input positions are used to define the card rank, and the 2nd,4th,6th... positions are used to define card suit.
 The image is generated after pressing Enter, and it can be used just by pasting, using CTRL+V.
 
+You can download a runnable .exe file from: https://github.com/adriaesteve/PokerCardImageGenerator/releases/tag/1.0.0
+
