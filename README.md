@@ -1,5 +1,5 @@
 
-# Poker Image Generator
+# Poker Card Image Generator
 
 This simple software generates an image based on the input characters, it's purpose is to generate images of poker cards to help study and write notes, specially studying Omaha.
 
