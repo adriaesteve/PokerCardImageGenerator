@@ -17,7 +17,7 @@ The image is generated after pressing Enter, and it can be used just by pasting,
 
 ## Usage
 
-![demo](https://github.com/adriaesteve/PokerCardImageGenerator/assets/4983606/7cd38088-0446-44d8-900c-3647b76132c7)
+![demo](https://github.com/adriaesteve/PokerCardImageGenerator/assets/4983606/82f611df-921b-4d42-9a80-6352becc3789)
 
 
 You can download a runnable .exe file from: https://github.com/adriaesteve/PokerCardImageGenerator/releases/tag/1.0.0
